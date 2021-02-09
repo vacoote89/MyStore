@@ -123,4 +123,4 @@ Be sure your code can compile and run in Codio. The documentation must include t
 
 ### License
 
-![License](https://github.com/vacoote89/MyStore/blob/main/LICENSE)
+![License](https://github.com/vacoote89/MyStore/blob/master/LICENSE)

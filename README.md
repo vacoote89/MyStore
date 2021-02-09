@@ -72,8 +72,8 @@ Driver file (Store.cpp) should allow the user to complete the following actions:
 
 Write a function for each of the first 5 actions. For purchases less than $75, charge the uses a $5.99 shipping fee, otherwise it is free. The program must validate all user input.
 
-![img1.png](img1.png)
-![img2.png](img2.png)
+![images/img1.png](images/img1.png)
+![images/img2.png](images/img2.png)
  
 
 ## Documentation Requirements

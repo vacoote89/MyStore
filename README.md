@@ -120,3 +120,7 @@ Be sure your code can compile and run in Codio. The documentation must include t
 	*/
 	std::string getDateTime(int,bool) const;
 ```
+
+### License
+
+!(https://github.com/vacoote89/MyStore/blob/main/LICENSE)[License]

@@ -72,8 +72,8 @@ Driver file (Store.cpp) should allow the user to complete the following actions:
 
 Write a function for each of the first 5 actions. For purchases less than $75, charge the uses a $5.99 shipping fee, otherwise it is free. The program must validate all user input.
 
-!(img1.png)[img1.png]
-!(img2.png)[img2.png]
+![img1.png](img1.png)
+![img2.png](img2.png)
  
 
 ## Documentation Requirements
@@ -123,4 +123,4 @@ Be sure your code can compile and run in Codio. The documentation must include t
 
 ### License
 
-!(https://github.com/vacoote89/MyStore/blob/main/LICENSE)[License]
+![License](https://github.com/vacoote89/MyStore/blob/main/LICENSE)
